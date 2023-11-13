@@ -2,7 +2,7 @@
   "name": "random-value-utils",
   "description": "A set of utility functions for generating random values.",
   "author": "Jack Scott",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
