@@ -1,4 +1,4 @@
-# random-value-generate
+# random-value-utils
 
 A robust TypeScript library for generating random values such as integers, floats, strings, booleans, and more. Ideal for applications requiring randomization.
 
@@ -14,7 +14,7 @@ A robust TypeScript library for generating random values such as integers, float
 To install the package, run:
 
 ```bash
-npm install random-value-generate
+npm install random-value-utils
 ```
 
 ## Example Usage
@@ -31,7 +31,7 @@ import {
   randomIntegerArray,
   randomFloatArray,
   randomShuffleArray
-} from 'random-value-generate';
+} from 'random-value-utils';
 
 // Generate a random integer between 1 and 10
 const int = randomInteger(1, 10);
